@@ -37,10 +37,11 @@
 
 ---
 
-## ⚙실행 방법
+## 실행 방법
 ### 환경 설정 (Google Colab 권장)
 ```bash
 pip install -q pandas numpy matplotlib seaborn statsmodels koreanize-matplotlib
+```bash
 
 ---
 
