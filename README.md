@@ -28,11 +28,14 @@
 ---
 
 ## 소스 코드
-본 저장소는 분석 목적에 맞추어 두 개의 주피터 노트북으로 구성되어 있습니다.  
 
-- `analysis_preparation.ipynb` → KNHANES 원시자료 정제
-- `analysis_bmi_mets.ipynb` →  BMI/복부비만·대사성질환 변수 생성
-- 'analysis_visual_results.ipynb' → 기술통계, 교차분석, 로지스틱 회귀 분석, 시각화 포함  
+본 저장소는 분석 목적에 맞추어 세 개의 주피터 노트북으로 구성되어 있습니다.
+
+- `analysis_preparation.ipynb` → KNHANES 원시자료 정제 및 주요 변수 생성  
+- `analysis_bmi_mets.ipynb` → BMI·복부비만과 대사성질환(고혈압, 당뇨병, 이상지질혈증) 연관성 분석  
+  (기술통계, 교차분석, 로지스틱 회귀 포함)  
+- `analysis_visual_results.ipynb` → 분석 결과 시각화 및 요약 정리  
+  (연도별·성별·연령대별 BMI/대사성질환 유병률 그래프, BMI 구간별 위험도 시각화 등)  
 
 ---
 
