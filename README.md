@@ -32,8 +32,7 @@
 
 - `analysis_preparation.ipynb` → KNHANES 원시자료 정제
 - `analysis_bmi_mets.ipynb` →  BMI/복부비만·대사성질환 변수 생성
-  
-  → 기술통계, 교차분석, 로지스틱 회귀 분석, 시각화 포함  
+- 'analysis_visual_results.ipynb' → 기술통계, 교차분석, 로지스틱 회귀 분석, 시각화 포함  
 
 ---
 
